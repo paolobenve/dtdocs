@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Друк on darktable 4.0 user manual</title>
+    <link>https://darktable-org.github.io/dtdocs/uk/print/</link>
+    <description>Recent content in Друк on darktable 4.0 user manual</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://darktable-org.github.io/dtdocs/uk/print/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>огляд</title>
+      <link>https://darktable-org.github.io/dtdocs/uk/print/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/uk/print/overview/</guid>
+      <description>Цей режим дозволяє надрукувати ваші зображення. Оскільки друк є непростим процесом, слід взяти до уваги багато технічних аспектів.
+Після вибору зображення в режимі світлого стола ви можете увійти до модуля налаштування друку, щоб налаштувати параметри принтера та розпочати друк.
+Цей модуль підтримує профіль ICC принтера, який є швидше обов&amp;rsquo;язковим, якщо ви хочете отримати високоякісний друк, близький до зображення, що відображається на екрані.
+Важливо зазначити, що профілі ICC, надані виробниками паперу та/або принтерів, не можуть використовуватися в GNU/Linux, оскільки вони залежать від драйвера принтера.</description>
+    </item>
+    
+  </channel>
+</rss>

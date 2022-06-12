@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Print on darktable 4.0 user manual</title>
+    <link>https://darktable-org.github.io/dtdocs/nl/print/</link>
+    <description>Recent content in Print on darktable 4.0 user manual</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://darktable-org.github.io/dtdocs/nl/print/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overzicht</title>
+      <link>https://darktable-org.github.io/dtdocs/nl/print/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/nl/print/overview/</guid>
+      <description>Met deze weergave kan je jouw afbeeldingen afdrukken. Omdat printen niet eenvoudig is, komen er veel technische aspecten bij kijken.
+Na het selecteren van een afbeelding in de bibliotheekweergave kan je de print instellingen module invoeren om de printerinstellingen aan te passen en het afdrukken te starten.
+Deze module ondersteunt het ICC-profiel van de printer, wat enigszins verplicht is als je een afdruk van hoge kwaliteit wilt verkrijgen die dicht bij de afbeelding op het scherm ligt.</description>
+    </item>
+    
+  </channel>
+</rss>
